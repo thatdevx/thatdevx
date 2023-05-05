@@ -24,3 +24,8 @@
 <br>
 
 **_"A imaginação não tem limites e o infinito é somente o começo."_**
+
+<br><br><br>
+
+* _[Diario de programação](https://thatdev.neocities.org/)_
+* _[Ajuda Web - Compilado de links e conteudo relacionaldo a programação](https://thatdev.neocities.org/ProjetoWeb/ajudaweb)_
