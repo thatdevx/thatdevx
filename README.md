@@ -28,5 +28,5 @@
 <br><br>
 ---
 * _[Diario de programação](https://thatdev.neocities.org/)_
-* _[Ajuda Web - Compilado de links e conteudo relacionaldo a programação](https://thatdev.neocities.org/ProjetoWeb/ajudaweb)_
+* _[Ajuda Web - Compilado de links e conteudo relacionaldo a programação](https://thatdev.neocities.org/projetoweb/ajudaweb)_
 * _[Editor Web - Front End](https://www.fronteditor.dev/)_
